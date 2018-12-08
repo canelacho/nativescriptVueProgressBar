@@ -12,6 +12,8 @@ and of course
 
 For me this was a simple way to do it, Enjoy it!
 
+Feel free to use it if you need it, the playground link ["here!"](https://play.nativescript.org/?template=play-vue&id=9ItFYk&v=42)
+
 If you want to follow me : ["Canelacho's twitter"](https://twitter.com/Canelacho)  
 
 
