@@ -16,4 +16,4 @@ If you want to follow me : ["Canelacho's twitter"](https://twitter.com/Canelacho
 
 
 
-![This is how it looks](https://github.com/canelacho/nativescriptVueProgressBar/tree/master/assets/ProgressBarsNativesScriptVue.png)
+![This is how it looks](https://github.com/canelacho/nativescriptVueProgressBar/blob/master/assets/ProgressBarsNativesScriptVue.png)
