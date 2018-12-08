@@ -1,6 +1,6 @@
 # Nativescript Vue example : Animate progress bars
 
-There is many ways to animate things in web but in mobile apps I was thinking it cannot be possible but with a little of persistence I did on my way.
+There are many ways to animate things on the web, but in mobile applications I thought it was not possible, but with some persistence I did it my way.
 
 Here I'm using:
 - NativeScript
@@ -10,6 +10,10 @@ and of course
 -CSS
 - Javascript. 
 
-For me this was a simple way to do it, Enjoy!
+For me this was a simple way to do it, Enjoy it!
 
-If you want to follow my interactions : ["Canelacho's twitter"](https://twitter.com/Canelacho)  
+If you want to follow me : ["Canelacho's twitter"](https://twitter.com/Canelacho)  
+
+
+
+![This is how it looks](https://github.com/canelacho/nativescriptVueProgressBar/tree/master/assets/ProgressBarsNativesScriptVue.png)
