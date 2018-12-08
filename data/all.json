@@ -1,0 +1,31 @@
+{
+	"name": "Animate progress bar",
+	"description": "Another way to animate bars and progress bars using Vue and CSS Animate.",
+	"screenshots": [
+		"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-1.png"
+	],
+	"links": {
+		"angular": "",
+		"vue": "https://play.nativescript.org/?template=play-vue&id=9ItFYk&v=42",
+		"core": ""
+	},
+	"categories": [
+		"animations"
+	],
+	"authors": [
+		{
+			"name": "Hernán Piña",
+			"npmuser": "canelacho",
+			"framework": "vue"
+		}
+	],
+	"readme": "",
+	"keywords": [
+		"progress bars",
+		"bars",
+		"template",
+    "css",
+    "animation"
+	],
+	"order": 0
+}
